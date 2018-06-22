@@ -1,3 +1,7 @@
+/*
+ * Link: https://www.youtube.com/watch?v=5o-kdjv7FD0
+ */
+ 
 'use strict';
 
 const W = [0, 1];
